@@ -1,7 +1,9 @@
+import Navbar from "scenes/navbar/index.jsx"
+
 const HomePage=()=>{
     return (
         <div>
-            HomePage
+            <Navbar/>
         </div>
     )
 }
