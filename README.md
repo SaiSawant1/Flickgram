@@ -7,13 +7,10 @@ This is a social media web application built with the MERN stack (MongoDB, Expre
 To get started with the application, you'll need to have Node.js and MongoDB installed on your local machine.
 
  - Clone the repository
- - Install dependencies by running npm install
- - Start the development server by running npm run dev
- - The application should now be running on http://localhost:3000.
-Functionality
-User Authentication
-Users can sign up for an account or log in with an existing account. Passwords are hashed using bcrypt to ensure secure storage.
-
+ - cd to server folder and run index.js this will start server
+ -cd to client folder and run npm start this will host the app on local host 3000
+ 
+ 
 ## User Profiles👤
 >Each user has a profile page that displays their username, profile picture, and a list of their posts. Users can edit their profile information and profile picture.
 
@@ -30,3 +27,6 @@ Technologies Used
 
 ## Acknowledgments
 This project was built with guidance from online tutorials and resources.
+<https://www.youtube.com/@EdRohDev> 
+<https://www.youtube.com/@javascriptmastery/featured>
+
